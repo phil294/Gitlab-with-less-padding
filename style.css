@@ -216,3 +216,9 @@ ul.content-list>li {
 .limit-container-width .issuable-details .detail-page-description, .limit-container-width .issuable-details .mr-source-target, .limit-container-width .issuable-details .mr-state-widget, .limit-container-width .issuable-details .merge-manually {
     max-width: unset;
 }
+.right-sidebar .block {
+    padding: 3px;
+}
+.right-sidebar .title {
+    margin-bottom: 0;
+}
