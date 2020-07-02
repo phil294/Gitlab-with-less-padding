@@ -1,0 +1,218 @@
+.sidebar-sub-level-items > li a {
+    padding: 2px 8px 2px 20px;
+}
+.nav-sidebar li a {
+    padding: 6px 8px;
+}
+.nav-sidebar {
+    width: 180px;
+}
+.toggle-sidebar-button, .close-nav-button {
+    width: 180px;
+}
+.page-with-contextual-sidebar {
+    padding-left: 180px;
+}
+.content-wrapper .container-fluid, .content-wrapper .container-sm, .content-wrapper .container-md, .content-wrapper .container-lg, .content-wrapper .container-xl {
+    padding: 0 8px;
+}
+.navbar-gitlab {
+    height: 26px;
+    min-height: unset;
+}
+.content-wrapper {
+    margin-top: 26px;
+}
+body {
+    line-height: 1;
+}
+.breadcrumbs-container {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.breadcrumbs {
+    min-height: unset;
+}
+.nav-links:not(.quick-links) li:not(.md-header-toolbar) a, .nav-links:not(.quick-links) li:not(.md-header-toolbar) button {
+    line-height: 1;
+    padding: 0 10px;
+}
+.btn, .project-buttons .stat-text {
+    padding: 0 10px;
+}
+.row-content-block {
+    padding: 0px;
+}
+.form-control, .search form {
+    padding: 0;
+}
+.filtered-search-box .form-control, .filtered-search-box .search form, .search .filtered-search-box form {
+    height: unset;
+}
+.board-labels-toggle-wrapper, .board-swimlanes-toggle-wrapper {
+    height: unset;
+}
+.pt-3, .py-3 {
+    padding: 0 !important;
+}
+.board-title {
+    padding: 0;
+}
+.gl-button.gl-button.btn-icon, .gl-button.gl-button.btn-block.btn-icon, .login-page input.gl-button.gl-button.btn-icon[type='submit'] {
+    padding: 0;
+}
+.p-3 {
+    padding: 3px !important;
+}
+.gl-mt-2 {
+    margin-top: unset;
+}
+.gl-mr-3 {
+    margin-top: unset;
+}
+.board-card-title {
+    font-size: 12px;
+}
+.board-card-footer {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: rgba(255,255,255,0.8);
+}
+.boards-list {
+    height: unset;
+}
+.context-header>a, .context-header>button {
+    padding: 0;
+}
+.identicon.s40 {
+    line-height: unset;
+}
+.avatar-container.s40 {
+    min-height: unset;
+}
+.s40.avatar, .s40.avatar-container {
+    height: unset;
+    width: 30px;
+}
+.group-home-panel, .project-home-panel {
+    padding: 0;
+}
+.gl-mb-3 {
+    margin-bottom: 0;
+}
+.gl-banner {
+    padding: 0;
+    height: 65px;
+    overflow: auto;
+}
+.gl-banner-content > * {
+    margin: 0;
+}
+.tree-holder .add-to-tree {
+    padding: 1px;
+}
+.breadcrumb.repo-breadcrumb {
+    line-height: unset;
+}
+.commit {
+    min-height: unset !important;
+}
+.clipboard-group .label, .clipboard-group .btn, .clipboard-group .project-buttons .stat-text, .project-buttons .clipboard-group .stat-text, .commit-sha-group .label, .commit-sha-group .btn, .commit-sha-group .project-buttons .stat-text, .project-buttons .commit-sha-group .stat-text {
+    padding: 1px;
+}
+.info-well {
+    margin: 0;
+}
+.tree-holder .nav-block {
+    margin: 5px;
+}
+table.table tr td, .md table:not(.code) tr td, table.table tr th, .md table:not(.code) tr th {
+    padding: 3px;
+}
+.container-limited.limit-container-width {
+    max-width: unset;
+}
+.limit-container-width .detail-page-header, .limit-container-width .page-content-header, .limit-container-width .commit-box, .limit-container-width .info-well, .limit-container-width .commit-ci-menu, .limit-container-width .files-changed-inner, .limit-container-width .limited-header-width, .limit-container-width .limited-width-notes {
+    max-width: unset;
+}
+.container-limited {
+    max-width: unset
+}
+.info-well .well-segment {
+    padding: 2px;
+}
+.blob-content-holder {
+    margin-top: unset;
+}
+.file-title-flex-parent, .file-holder .file-title-flex-parent {
+    padding: 0;
+}
+ul.content-list>li {
+    padding: 3px 0;
+}
+.dropdown-toggle, .dropdown-menu-toggle, .confidential-merge-request-fork-group .dropdown-toggle, .confidential-merge-request-fork-group .dropdown-menu-toggle {
+    padding: 2px;
+}
+.dropdown-menu-toggle .fa-chevron-down, .dropdown-menu-toggle .fa-spinner {
+    top: 3px;
+}
+.gl-button.gl-button, .gl-button.gl-button.btn-block, .login-page input.gl-button.gl-button[type='submit'] {
+    padding: 2px;
+}
+.form-control, .search form {
+    height: unset;
+}
+.issues-list .issue {
+    padding: 3px 0 0 0;
+}
+.manage-labels-list>li:not(.empty-message):not(.no-border) {
+    padding: 1px;
+}
+.input-group-prepend .btn, .input-group-prepend .project-buttons .stat-text, .project-buttons .input-group-prepend .stat-text, .input-group-append .btn, .input-group-append .project-buttons .stat-text, .project-buttons .input-group-append .stat-text {
+    padding: 0;
+}
+.labels-container {
+    padding: 0;
+}
+.prioritized-labels {
+    margin-bottom: 0;
+}
+.identicon.s64 {
+    font-size: unset;
+    line-height: unset;
+}
+.avatar-container.s64 {
+    min-height: unset;
+}
+.s64.avatar, .s64.avatar-container {
+    height: unset;
+}
+.group-home-panel .home-panel-avatar, .project-home-panel .home-panel-avatar {
+    height: unset;
+}
+.project-repo-buttons .home-panel-action-button, .project-repo-buttons .project-action-button {
+    margin: 0;
+}
+.project-repo-buttons .count-buttons {
+    margin: 0;
+}
+.home-panel-title-row > * {
+    flex-direction: row !important;
+}
+.home-panel-title {
+    margin: 0;
+}
+.project-stats .nav .stat-text, .project-stats .nav .stat-link, .project-buttons .nav .stat-text, .project-buttons .nav .stat-link {
+    padding: 0
+}
+.project-stats .nav .btn, .project-stats .nav .project-buttons .stat-text, .project-buttons .project-stats .nav .stat-text, .project-buttons .nav .btn, .project-buttons .nav .stat-text {
+    padding: 0;
+    margin-top: 0;
+}
+.event-item {
+    padding: 0 0 0 40px
+}
+.limit-container-width .issuable-details .detail-page-description, .limit-container-width .issuable-details .mr-source-target, .limit-container-width .issuable-details .mr-state-widget, .limit-container-width .issuable-details .merge-manually {
+    max-width: unset;
+}
