@@ -1,4 +1,9 @@
 # Gitlab with less padding
+
+THIS REPO HAS BEEN MERGED INTO https://github.com/phil294/density-userstyle
+
+---
+
 Userstyle to make all the GitLab interface gaps less insane (and pretty dense, to be honest). Specially useful for small screens or if you resize your window often.
 Not all views have been altered, only the most common ones. Also, I removed the `max-width`s so all pages can fill the entire browser window width.
 
